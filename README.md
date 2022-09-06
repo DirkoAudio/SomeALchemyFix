@@ -32,4 +32,4 @@ EXTRA INFO:
 You can check with ALCAPSViewer32 (not included) if devices are being listed and have EAX capabilites set to "Yes"
 ![image](https://user-images.githubusercontent.com/74037287/188538760-58c5b52a-6bfb-468e-a72b-f2610685def8.png)
 
-PS: You're better off using DSOAL/OpenAL-Soft with proper HTRF
+PS: Maybe, you're better off using DSOAL/OpenAL-Soft with proper HTRF
