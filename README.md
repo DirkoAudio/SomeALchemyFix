@@ -26,3 +26,9 @@ This is my very lazzy fix for CT ALchemy. It worked ok for me and always gave me
 6. Check if "dsoundlog.txt" inside your game folder. If it says "Using Native OpenAL Renderer", then, I think it worked.
 
 ![image](https://user-images.githubusercontent.com/74037287/188537848-317d6091-8539-46a9-ad75-36f5f0cb7130.png)
+
+EXTRA INFO:
+
+You can check with ALCAPSViewer32 (not included) if devices are being listed and have EAX capabilites set to "Yes"
+![image](https://user-images.githubusercontent.com/74037287/188538760-58c5b52a-6bfb-468e-a72b-f2610685def8.png)
+
