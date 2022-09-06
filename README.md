@@ -1,5 +1,6 @@
 # ALchemyFix
 Use CT Alchemy on any sound device and always get "Using Native OpenAL Renderer"
+
 This is my very lazzy fix for CT ALchemy. It worked ok for me and always give me "Using Native OpenAL Renderer" even on virtual audio devices.
 
 1. Download the entire repository
