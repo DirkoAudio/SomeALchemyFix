@@ -9,7 +9,7 @@ This is my very lazzy fix for CT ALchemy. It worked ok for me and always gave me
 
 2. Extract the folder
 
-![image](https://user-images.githubusercontent.com/74037287/188537131-fd8c601e-102b-4634-90ee-db9c8cda7402.png)
+![image](https://user-images.githubusercontent.com/74037287/188543136-0ba5df62-2470-4766-8692-69905c0a0eb2.png)
 
 3. Run setup.bat as admin
 
